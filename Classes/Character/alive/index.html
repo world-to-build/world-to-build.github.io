@@ -6141,7 +6141,7 @@
                 <h1 id="alive">alive</h1>
 <h5 id="description">Description</h5>
 <p><code>alive</code> is a <code>Property</code> on <code>Character</code><br>
-Whether or not this Character is alive.</p>
+Whether or not this Character is alive (if their health above 0). Setting alive to false will call Kill on this Character. Setting alive to true when the Character is already dead will not revive this Character.</p>
 <h5 id="example">Example</h5>
 <pre><code>Character.alive = true
 </code></pre>
