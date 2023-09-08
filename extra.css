@@ -1,5 +1,21 @@
-:root {
-    --md-primary-fg-color:        #c32525;
-    --md-primary-fg-color--light: #c32525;
-    --md-primary-fg-color--dark:  #7d0000;
-  }
+:root > * {
+    --md-primary-fg-color:          #bf3c3a;
+    --md-primary-fg-color--light:   #bf3c3a;
+    --md-primary-fg-color--dark:    #bf3c3a;
+    --md-accent-fg-color:           #db7c7a;
+    --md-accent-fg-color--light:    #db7c7a;
+    --md-accent-fg-color--dark:     #db7c7a;
+}
+.md-header__title .md-header__topic {
+    font-weight: 800;
+}
+.md-header__title[data-md-state=active] .md-header__topic {
+    font-weight: 300;
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    width: 2.2rem;
+    height: 2.2rem;
+}
+.md-header__button.md-logo {
+    padding: 0rem;
+}

@@ -1,2047 +1,2055 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/color/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/shadows/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/transparency/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Block%29%20Renderer/visible/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/design/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/shadows/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/tint/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/transparency/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/%28Voxel%29%20Renderer/visible/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/Damage/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/DropAllItems/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/DropEquippedItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/DropItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/GrantItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/HasItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/HasItemEquipped/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/Heal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/Impulse/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/Jump/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/Kill/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/LootItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/RemoveAllItems/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/RemoveEquippedItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/RemoveItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/SetNoClipMovement/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/SetNormalMovement/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/Unground/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/alive/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/alwaysHideNametag/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/backDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/cameraDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/cameraPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/cameraZoom/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/canSeeNametag/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/dead/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/downDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/forceField/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/forwardDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/frozen/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/god/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/gravityDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/gravityMultiplier/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/gravityPower/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/health/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/invulnerable/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/isFirstPerson/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/isHost/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/isLocal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/jumps/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/leftDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/lockCameraMovement/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/lockCameraZoom/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/lockMovement/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/mass/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/maxHealth/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/maxShields/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/movementMode/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/nametagVisible/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/netId/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/nickname/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/player/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/position/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/rightDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/rotation/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/scale/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/screenPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/shields/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/speed/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/upDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/username/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Character/visible/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/bounciness/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/enabled/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/isTrigger/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/shape/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Collider/slipperiness/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/ColorFromHex/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/Greyscale/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/HexFromColor/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/Lerp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/New/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/ToGreyscale/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/black/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/blue/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/cyan/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/green/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/grey/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/magenta/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/red/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/white/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Color/yellow/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Component/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Component/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Component/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Component/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/Bind/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/BindFunction/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/Broadcast/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/BroadcastToAllPlayers/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/BroadcastToPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/BroadcastToServer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/Unbind/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Event/UnbindFunction/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/direction/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/end/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/endPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/hitDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/hitDistance/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/hitPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/hitWildcard/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/length/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/start/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/HitData/startPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/KeyHeld/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/KeyPressed/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/KeyReleased/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/LeftMouseHeld/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/LeftMousePressed/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/LeftMouseReleased/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/MiddleMouseHeld/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/MiddleMousePressed/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/MiddleMouseReleased/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/RightMouseHeld/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/RightMousePressed/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/RightMouseReleased/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/mouseScreenPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Input/mouseWorldPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/cooldown/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/enabled/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/hideDot/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/holdDuration/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Interactable/visible/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/canDrop/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/displayName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/dropOnDeath/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Item/touchToLoot/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/brightness/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/color/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/enabled/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/range/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/shadows/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/spotlightAngle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Light/type/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/Clamp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/Lerp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/LerpUnclamped/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/MapRange/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/Max/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/Min/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/Round/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/RoundDown/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Math/RoundUp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/AddComponent/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/AddScript/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/Delete/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/Duplicate/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/GetAllChildren/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/GetAllScripts/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/GetChildByName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/GetChildrenByName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/GetComponent/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/GetDirectChildren/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/GetScriptByName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/MoveTo/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/NetMessageAll/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/NetMessagePlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/RemoveAllScripts/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/RemoveComponent/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/RemoveScript/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/RemoveScriptByName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/RotateAround/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/RotateTowards/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/SetParent/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/Unparent/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/backDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/blockRenderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/collider/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/downDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/forwardDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/id/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/interactable/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/item/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/leftDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/light/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/localTable/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/netId/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/netTable/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/parent/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/physics/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/position/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/renderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/replicated/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/respawn/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/rightDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/root/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/rotation/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/screenPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/size/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/sound/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/upDirection/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/voxelRenderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Object/worldText/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/AddExplosionForce/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/AddForce/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/AddTorque/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/angularVelocity/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/autoMass/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/enabled/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/gravity/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/mass/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Physics/velocity/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/ClearCheckpoint/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/Respawn/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/RespawnAt/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/RespawnHere/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/SendSystemChat/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/SetCheckpoint/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/character/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/checkpoint/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/hasAliveCharacter/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/hasCheckpoint/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/id/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/isHost/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/isLocal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/netId/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/nickname/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Player/username/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/AliveCharacter/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/Character/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/Color/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/ColorAndAlpha/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/InCircle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/InSphere/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/Noise/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/Number/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/NumberRounded/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/OnCircle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/OnSphere/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/Player/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Random/PlayerWithAliveCharacter/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Rect/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Rect/Contains/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Rect/New/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Rect/Overlaps/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Respawn/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Respawn/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Respawn/enabled/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Respawn/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Respawn/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Respawn/type/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/Run/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/RunOnAllClients/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/RunOnClient/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/RunOnServer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Script/scriptName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/Pause/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/PauseLocal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/Play/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/PlayLocal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/SetTime/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/SetTimeLocal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/Stop/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/StopLocal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/autoplay/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/global/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/id/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/looped/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/pitch/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/radius/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Sound/volume/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Table/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Table/New/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/day/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/deltaTime/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/hour/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/millisecond/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/minute/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/month/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/physicsDeltaTime/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/second/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/time/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Time/year/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Angle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/ClampMagnitude/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Distance/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Dot/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Lerp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Middle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/New/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Normalize/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Perpendicular/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/Reflect/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector2/SignedAngle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Angle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/ClampMagnitude/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Cross/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Direction/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Distance/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Dot/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Lerp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/LookRotation/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Middle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/New/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Normalize/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Reflect/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/SignedAngle/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/Vector3/Slerp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/World/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/World/id/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/World/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/World/ownerId/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/World/roomSize/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/World/visits/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/forceFieldTime/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/gravityMultiplier/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/gravityPower/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/health/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/healthRegenDelay/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/healthRegenPerSec/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/hideHealthUntilDamage/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/hideNameBehindWalls/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/jumpPower/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/jumps/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/respawnTime/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/shields/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/shieldsRegenDelay/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/shieldsRegenPerSec/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/skybox/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldSettings/speed/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/Remove/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/alignment/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/color/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/enabled/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/faceCamera/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/font/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/hiddenDistance/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/hideAtDistance/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/name/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/outlineColor/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/outlineWidth/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/owner/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/size/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Classes/WorldText/text/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/Begin/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/LateTick/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnCharacterDied/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnCharacterSpawn/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnInteracted/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnInvisible/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnItemEquipped/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnItemMouseDown/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnItemMouseUp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnMouseClick/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnMouseDown/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnMouseDragging/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnMouseEnter/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnMouseExit/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnMouseOver/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnMouseUp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnNetMessage/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnNetTableUpdated/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnPlayerChat/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnPlayerJoin/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnPlayerLeave/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnScriptEnabled/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnSystemChat/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnTouchBegin/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnTouchContinue/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnTouchEnd/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/OnVisible/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/PhysicsTick/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Events/Tick/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Clamp/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/GetScreenHeight/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/GetScreenSize/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/GetScreenWidth/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/LineCast/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Magnitude/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/MapRange/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/NetMessageGlobalAll/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/NetMessageGlobalPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Normalized/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/PlayOneShot/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/PlayOneShotAt/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/PlayOneShotFor/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/PlayOneShotForAt/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/PlayOneShotLocal/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/PlayOneShotLocalAt/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/RayCast/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/ScreenPosition/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/SendSystemChatToAll/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/SphereCast/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetAllAliveCharacters/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetAllCharacters/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetCharacterByNetId/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetCharacterFromPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetCharactersInBounds/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetCharactersInRect/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetCharactersInSphere/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetHostCharacter/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Characters/GetLocalCharacter/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Items/GrantItemTo/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Items/LootItemTo/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/CreateEmptyObject/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/CreateLocalEmptyObject/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/CreatePremade/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/DeleteObject/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/DuplicateObject/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetAllNonStaticObjects/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetAllObjects/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetAllStaticObjects/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetObjectById/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetObjectByName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetObjectByNetId/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetObjectsByName/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetObjectsInBounds/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetObjectsInRect/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Objects/GetObjectsInSphere/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Players/GetAllPlayers/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Players/GetHostPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Players/GetLocalPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Players/GetPlayerById/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Players/GetPlayerByNetId/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Players/GetPlayerByUsername/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsBlockRenderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsCharacter/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsCollider/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsComponent/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsInteractable/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsItem/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsLight/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsObject/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsPhysics/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsRenderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsRespawn/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsScript/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsSound/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsValid/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsVoxelRenderer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Global/Validity/IsWorldText/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/branch/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/delay/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/hostPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/isClient/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/isHost/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/isServer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/localPlayer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/object/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/print/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/printScreen/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/spawn/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/this/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/timer/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2023-03-14</lastmod>
+     <loc>https://docs.worldtobuild.com/Macros/wait/</loc>
+     <lastmod>2023-09-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.worldtobuild.com/Macros/waitPhysicsTick/</loc>
+     <lastmod>2023-09-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.worldtobuild.com/Macros/waitTick/</loc>
+     <lastmod>2023-09-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
